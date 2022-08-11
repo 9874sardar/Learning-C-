@@ -11,6 +11,7 @@ int main(){
     cout << "The sum of two number is " << sum << endl; 
 
     cout << "The muliplication of two number " << a*b << endl;
+    
     //Type Casting
     cout << "The divison of two number " <<(float) a/b << endl;
 
