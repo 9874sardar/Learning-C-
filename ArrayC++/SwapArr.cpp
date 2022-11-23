@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-    int arr[] = {2,3,4,5,6,7,8,9};
+    int arr[] = {3,4,5,6,7,8,9,2};
     int a,i=0;
     while(i<=8){
         a = arr[i];
